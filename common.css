@@ -41,5 +41,11 @@ h2{
     margin-top: -1.1rem;
 }
 
-
+h3{
+    font-size: 3rem;
+    font-weight: bolder;
+    font-family: 'Noto Serif Display', serif;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #dfdfdf;
+}
 
